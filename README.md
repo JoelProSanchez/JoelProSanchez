@@ -7,10 +7,8 @@ All about cybersecurity, IT infrastructure, and troubleshooting. <br>
 ---
 
 ## My Projects🦾  
-- <b> osTicket: Creating a Ticketing System for Help Desk </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/JoelProSanchez/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/JoelProSanchez/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/JoelProSanchez/ticket-lifecycle)
+- <b> osTicket: Support Ticket System</b>
+  - [Creating a Ticketing System for Help Desk](https://github.com/JoelProSanchez/osTicket)
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/JoelProSanchez/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/JoelProSanchez/azure-network-protocols)
