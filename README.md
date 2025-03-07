@@ -10,7 +10,7 @@ All about cybersecurity, IT infrastructure, and troubleshooting. <br>
 - <b> osTicket: Support Ticket System</b>
   - [Creating a Ticketing System for Help Desk](https://github.com/JoelProSanchez/osTicket)
 - <b>Microsoft Azure</b>
-  - [Setting Up Active Directory using Azure VMs](https://github.com/JoelProSanchez/configure-ad)
+  - [Setting Up Active Directory using Azure VMs](https://github.com/JoelProSanchez/config-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/JoelProSanchez/azure-network-protocols)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/JoelProSanchez/Setting-UP-A-VPN)
